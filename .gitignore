@@ -1,0 +1,16 @@
+# Ignore environment variable files
+.env
+
+# Node modules directory
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Build output
+dist/
+build/
+
+# Optional: Ignore TypeScript compiled files
+*.tsbuildinfo
