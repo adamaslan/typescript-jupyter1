@@ -1,0 +1,14 @@
+{
+  "version": "4",
+  "remote": {
+    "https://cdn.jsdelivr.net/npm/@huggingface/inference@latest": "3d6115ac1467136935247491e45fd880d7cea437dcf67b3157a8fda69aec4ef5"
+  },
+  "workspace": {
+    "packageJson": {
+      "dependencies": [
+        "npm:@huggingface/inference@^2.8.1",
+        "npm:dotenv@^16.4.5"
+      ]
+    }
+  }
+}
